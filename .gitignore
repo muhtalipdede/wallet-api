@@ -1,0 +1,66 @@
+# Compiled files
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.pdb
+
+# NuGet packages
+packages/
+
+# Build results
+[Bb]uild/
+
+# .NET Core
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+
+# Test Results
+TestResults/
+
+# Resharper files
+_ReSharper.*
+
+# Rider files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.usertasks
+*.vspscc
+*.vssscc
+*.useroptions
+*.bak
+*.*proj.user
+*.ncrunch*
+*.tlb
+*.tlh
+*.shfbproj
+*.gpState
+
+# GhostDoc plugin settings
+*.GhostDoc.xml
+
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# Miscellaneous
+Thumbs.db
+Desktop.ini
